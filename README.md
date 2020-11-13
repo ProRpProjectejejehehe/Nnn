@@ -102,7 +102,7 @@ You get complete control over your player in GDrive-X Premium Tool. The GDrive-X
 
 <ul>
    <li>Complete control over player</li>
-   <li>Download Option ( not working for illegal videos )</li>
+   <li>Download Option ( currently not working )</li>
    <li>Your VAST/IMA AD, POPUP AD, POPUNDER AD</li>
    <li>Your <b>own logo</b>, <b>about link</b>, <b>about text</b></li>
    <li>Extra secured code</li>
