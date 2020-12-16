@@ -144,7 +144,7 @@ function logged_in_msg($username)
 <div>
 <?php if($var_c777f9f5bb1d443e6840a6bc0fd59608){echo 'Direct Link:<br><textarea style="margin:10px;width:98%;height:120px;">'.$var_ceb5e88c3ba3c575619c09d05c245af1.'embed.php?url='.$var_c777f9f5bb1d443e6840a6bc0fd59608.'&sub='.$var_6f0761f10142d0b2cca27f076f813d07.'&poster='.$var_65bee03a17c74134539f222cb38f0cae.'</textarea>';}?>
 </div>
-<p><b>Sample Google Photo URL:</b> <input type="text" value="https://photos.google.com/share/AF1QipMTEPAiVF8t0YqLukflnOSQjwfd8ARIoT2h37AXvYO1uaWodbeiFoBUDuD_19tEbg/photo/AF1QipPA2Bq0JlAR9LoGD3mogsxSb9OZWEG4XqBDD4Rv?key=cjhUT0xrZjM5NGN2SVRLOVptZU5SMUlKV0lQYWpB" id="myInput">
+<p><b>Sample Google Photo URL:</b> <input type="text" value="https://photos.google.com/share/AF1QipP3nfR3TMP9UDpZ43hqDTxHepGih67oqNGkOiu4ET5FJJ3ufsx2TRWuXpwL5iISJw/photo/AF1QipPJOUv8bba4k8UE7BH0Rt8IEOvSUwZixVNoaLPz?key=SUlUVHNSdzZoTG41RG5kWGdLLTRYazAwckJLRXBB" id="myInput">
 <button onclick="myFunction()">Copy</button></div>
 </div>
 <?php
