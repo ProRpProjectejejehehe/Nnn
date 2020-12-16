@@ -111,7 +111,7 @@ You get complete control over your player in GDrive-X Premium Tool. The GDrive-X
    <li>Iframe Busting</li>
    <li>FuckAdblock</li>
    <li>Improved player style ( Premium look )</li>
-   <li>Premium updates</li>
+   <li>Premium updates ( Till 3 months from date of purchase )</li>
    <li>Technical assistance</li>
    <li>and many more...</li>
 </ul>
