@@ -51,7 +51,7 @@ Please read the <a href='https://github.com/karankankaria/GDrive-X/blob/master/D
 
 <ul>
    <li>Currently deployed at Heroku.</li>
-   <li>Check it out: <a href="https://gdrivex.herokuapp.com/embed.php?url=VnBkYnFkQXNvbmRrL0c1aVRkV1BHUXJYSHhqTmxiSkJVeHZBRGU2enhNb24xeFdVM1hlblVSZmcyY3hiWU9uSEpDdTMrdTdPUXo1VmZ0VzVwbGhGcXZpTDR5eWRtelZDKzhyZEdrY1VHdllGS2ExNE11K1g5MW9KcXRYdmtXRHZ0U3c1RVNrZ25SMjJFeGZjUEdCcXFhNG9OL3N3bGhKck1xeGZNSlpLNXl4bmRxVmFFZCtXb0lqc3BpTGd0SGlmTjkwWkJZYzlKY05RUHY2V09EMFNNZTd2dW5NakFrWlBBbHd6WVp0N2htRGpiY3J0bWFYNUdzemFJTFp0MGVEMFEyYnd3a2tuRXhiajdVZHlYbXdrUHc9PQ==&sub=&poster=https://i.gadgets360cdn.com/large/google_photos_1526539307005.jpg" target="_blank">Visit GDrive-X Player</a></li>
+   <li>Check it out: <a href="https://gdrivex.herokuapp.com/embed.php?url=VnBkYnFkQXNvbmRrL0c1aVRkV1BHUXJYSHhqTmxiSkJVeHZBRGU2enhNcVFFOEtwQWZlNkRWVUdPLzlJWXpFZGs2MHpaV3NhcWxKQmRDMVk5OXJVb0pKWUp4ZDdlbzBKMkZZNTBteWdEQ1JFWHFqSEQ0SFBUWGJpMUduaEpZZkxnQkx3YmU2WEIvc0ZzaW4xSVFkUTV2ZDlDK2JqOGZMN2RyVVhZdUFxdFY1eUpIcWZkNXVuN1RwaGdkc2hqYWthZTlXMlNnN2tlNHhvYjBjY0p0Vy9zQUszbXdKMCt3MkVpWi9wWXl4MjdTTnU1cFNFaFNDcUxxajl5eU9QbW9FY3VmMzEwZWJGZ2dTNHpDcjdac09pWVE9PQ==&sub=https://sub.vanlong.stream/subdata/The.Boss.Baby.Back.in.Business.S01E07.WEB.srt&poster=https://image.tmdb.org/t/p/w533_and_h300_bestv2/dGCKSwhsSF3nAmDjm4uSKslRYpF.jpg" target="_blank">Visit GDrive-X Player</a></li>
 </ul>
 
 ## Requirements
