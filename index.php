@@ -2,7 +2,7 @@
 session_start();
 /* DECLARE VARIABLES */
 $username = 'admin';
-$password = 'admin121';
+$password = 'admin123';
 $random1 = 'secret_key1';
 $random2 = 'secret_key2';
 $hash = md5($random1 . $password . $random2);
