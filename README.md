@@ -1,5 +1,5 @@
-# GDrive-X
-A tool for playing Google Photos Video with JW Player
+# GDrive-X (V2)
+A tool for playing Google Photos Video with JW Player. GDrive-X has been updated to V2. Click here: <a href='https://gdrivex-premium.blogspot.com/'>Gdrive-X V2</a>
 
 ## Description
 
@@ -35,7 +35,7 @@ Please read the <a href='https://github.com/karankankaria/GDrive-X/blob/master/D
 
 <ul>
    <li>Currently deployed at Heroku.</li>
-   <li>Check it out: <a href="https://gdrive-x.herokuapp.com" target="_blank">Visit GDrive-X</a></li>
+   <li>Check it out: <a href="https://gdrive-x-premium.herokuapp.com" target="_blank">Visit GDrive-X</a></li>
    <li>Login Details:</li>
 </ul>
 
@@ -44,14 +44,14 @@ Please read the <a href='https://github.com/karankankaria/GDrive-X/blob/master/D
    password: admin123
    ```
 <ul>
-   <li>GDrive-X not opening? Try pasting https://gdrive-x.herokuapp.com in your browser.</li>
+   <li>GDrive-X not opening? Try pasting https://gdrive-x-premium.herokuapp.com in your browser.</li>
 </ul>
 
 ## Demo of Working Player
 
 <ul>
    <li>Currently deployed at Heroku.</li>
-   <li>Check it out: <a href="https://gdrive-x.herokuapp.com/embed.php?url=VnBkYnFkQXNvbmRrL0c1aVRkV1BHUXJYSHhqTmxiSkJVeHZBRGU2enhNcHBPNmdXeUlVb0ZYYVdkOExvYkZ2aTFWUWgvUFBOaVdEN3huK1hmeEg3Unp3NWkySEdBTGVqdDRLMWs4TEpYZWsxai9EbzZmSERpSndGMk9hMkJKTUJZUURNcSsvOHcwR1dtTWZTMDUvZ2Z5dHVYS2thUnQxaU9oR1FvSmtNZTJQaUxYYXNncGFSNkxackhXUlpielRhaTkvcXRJUFhQUThSWGs5M1RUbm1YREtZNng3WWpFRHJEazA4WlhwZWlvK1JDZXRvWGQ4VUhqdXN6NEc0eFZjQXZETVJ6Vkc0WVpCVkM3dGZuK2Jkbmc9PQ==&sub=&poster=https://image.tmdb.org/t/p/w533_and_h300_bestv2/jQHjvKOc3FG3ShoKTJfp1tXoKnQ.jpg" target="_blank">Visit GDrive-X Player</a></li>
+   <li>Check it out: <a href="https://gdrive-x-premium.herokuapp.com/preview.php?url=OHY0cHFqQnRPSkVIZXlEc0NzcFJSYmJtd3ZWN1AvMU9hTGlHNGlFekp5bkJmcVZJRStydG5QR3ZDUUlZSWRQVVZUdGw2Ryt5MytnZHR0Rk1qdlV2b1VBckc4NUlNZnlGa3JLbTRLMU1rUzBkTEJFZzIzWXlwWkN1bkp5b2lNMStJS21WeXVhaW1ma0xrcGRiN0VTcWdzbFE3UTh0Tmc4MzE1dXBVVE1yZnQyVExBektDNW1UcmJlNmNERG80eWkrUFdXQXJIME5ReksrZVNXeloybVVQRy9hSzIyaUZ4VzBsanVSVEZLbXBwbXhLckU5T2hqeThTWUZlSy80eWNLQzAwbnhjL2NicExDT2NGYWtiakd0VkE9PQ==&sub=&poster=https://image.tmdb.org/t/p/w533_and_h300_bestv2/jQHjvKOc3FG3ShoKTJfp1tXoKnQ.jpg&title=The%20Monkey%20King%202%20(2016)&hide_button=&advast=&pop=" target="_blank">Visit GDrive-X Player</a></li>
 </ul>
 
 ## Requirements
@@ -116,23 +116,26 @@ You get complete control over your player in GDrive-X Premium Tool. The GDrive-X
    <li>and many more...</li>
 </ul>
 
-For GDrive-X Premium Tool contact me: 2105karankankaria [@] gmail [dot] com
+For GDrive-X Premium Tool visit here: <a href='https://gdrivex-premium.blogspot.com/'>https://gdrivex-premium.blogspot.com</a>
 
 ## Screenshots
 
-![](https://raw.githubusercontent.com/karankankaria/JWPlayer/master/assets/Screenshot%20(177).png)
+![](https://1.bp.blogspot.com/-XzqAsu0O6zg/X_AmgzZg27I/AAAAAAAASPg/c4VU3hZ4ytUrxOunwk3xDEnRwITytvCKgCLcBGAsYHQ/s0/login_screen.png)
 
 
-![](https://raw.githubusercontent.com/karankankaria/JWPlayer/master/assets/Screenshot%20(199).jpg)
+![](https://1.bp.blogspot.com/-gRmKonxG8iY/X_AmfV8Oj1I/AAAAAAAASPM/nkRY0RXQMDs8ixuEn-IBNt4nimqYi31jgCLcBGAsYHQ/s0/dashboard.png)
 
 
-![](https://raw.githubusercontent.com/karankankaria/JWPlayer/master/assets/screencapturegooglephoto.jpg)
+![](https://1.bp.blogspot.com/-vWY0RvANzO0/X_AmfoHhT5I/AAAAAAAASPQ/m3j_x66pNb4fG-XBnIygN06TCZuWFbhdQCLcBGAsYHQ/s0/dashboard_generate.png)
 
 
-![](https://raw.githubusercontent.com/karankankaria/JWPlayer/master/assets/Screenshot%20(180).png)
+![](https://1.bp.blogspot.com/-gofCfLZe6nA/X_AmfTHc9dI/AAAAAAAASPU/H3gnPq-UmTUgPac_-Z2GF3dlaLbb_60iwCLcBGAsYHQ/s0/demo_player.png)
 
 
-![](https://raw.githubusercontent.com/karankankaria/JWPlayer/master/assets/Screenshot%20(181).png)
+![](https://1.bp.blogspot.com/-ph26JHiHNr4/X_AmgadHM7I/AAAAAAAASPY/Lkksk-rWChQtcmGfSNrdMuks6xDVBm0hQCLcBGAsYHQ/s0/demo_player_play.png)
+
+
+![](https://1.bp.blogspot.com/-zOCBkX-fPnY/X_Amg_k5TeI/AAAAAAAASPc/ZrExUbmsZnYajyB5TkSGUDrFYLxDsCd0gCLcBGAsYHQ/s0/download_page.png)
 
 
 ## Credits:
