@@ -1,5 +1,5 @@
 # GDrive-X Premium (V2)
-A tool for playing Google Photos Video with JW Player. Check out: <a href='https://gdrivex-premium.blogspot.com/'>Gdrive-X Premium (V2)</a>
+A tool for playing Google Photos Video with JW Player. Check out: <a href='https://gdrivex-premium.blogspot.com/'>GDrive-X Premium (V2)</a>
 
 ## Description
 
