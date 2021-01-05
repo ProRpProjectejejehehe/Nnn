@@ -47,7 +47,7 @@ A tool for playing Google Photos Video using JW Player. You can play any video h
 
 <ul>
    <li>Currently deployed at Heroku.</li>
-   <li>Check it out: <a href="https://gdrive-x-premium.herokuapp.com/preview.php?url=OHY0cHFqQnRPSkVIZXlEc0NzcFJSYmJtd3ZWN1AvMU9hTGlHNGlFekp5bkJmcVZJRStydG5QR3ZDUUlZSWRQVVZUdGw2Ryt5MytnZHR0Rk1qdlV2b1VBckc4NUlNZnlGa3JLbTRLMU1rUzBkTEJFZzIzWXlwWkN1bkp5b2lNMStJS21WeXVhaW1ma0xrcGRiN0VTcWdzbFE3UTh0Tmc4MzE1dXBVVE1yZnQyVExBektDNW1UcmJlNmNERG80eWkrUFdXQXJIME5ReksrZVNXeloybVVQRy9hSzIyaUZ4VzBsanVSVEZLbXBwbXhLckU5T2hqeThTWUZlSy80eWNLQzAwbnhjL2NicExDT2NGYWtiakd0VkE9PQ==&sub=&poster=https://image.tmdb.org/t/p/w533_and_h300_bestv2/jQHjvKOc3FG3ShoKTJfp1tXoKnQ.jpg&title=The%20Monkey%20King%202%20(2016)&hide_button=&advast=&pop=" target="_blank">Visit GDrive-X Player</a></li>
+   <li>Check it out: <a href="https://gdrivex-premium.blogspot.com/2021/01/google-photos-gdrive-x-premium-tool.html#demo_player" target="_blank">Visit GDrive-X Player</a></li>
 </ul>
 
 ## Requirements
