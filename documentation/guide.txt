@@ -1,0 +1,46 @@
+GDrive-X Free Tool | Support: No support since this is free tool. To purchase premium version visit: gdrivex-premium.blogspot.com
+
+Documentation Guide: 
+
+1. Follow below steps to install GDrive-X Tool on your server. It doesn't take more that 15 minutes. Let's get started then ;)
+
+
+#) Basic Setup
+
+1. Extract GDrive-X Free Tool.
+2. Upload it on your server. 
+3. Put files inside your root directory of your site or in any folder.
+4. Navigate to config.php in GDrive-X Tool and search for $base_url = "your-website-url-here";
+5. Enter your website url along with folder name (if any)
+6. Important: Don't put slash (/)
+
+
+A) Login ( Username/Password ) Setup
+
+1. Navigate to config.php in GDrive-X Tool. Find below code:
+
+     $admin_username = "admin"; // Enter your username here.
+     $admin_password = "admin123"; // Enter your password here.
+
+2. Replace admin and admin123 with your username & password respectively.
+
+
+B) API Setup
+
+1. Navigate to config.php in GDrive-X Tool. Find below code:
+
+     $api = "your-api-key-here";
+     
+2. Enter your API Key. Free API Key: dac0d6d26ece8033
+
+
+C) Player Customizations
+
+1. Since this is Free Tool, you don't have any control over player. 
+2. All player customizations are available in GDrive-X Premium Tool.
+
+
+G) Others
+
+1. There are not any other changes you need to make.
+2. That's it. If you want to purchase GDrive-X Premium Tool, visit: gdrivex-premium.blogspot.com
