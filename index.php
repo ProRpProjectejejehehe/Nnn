@@ -139,7 +139,6 @@ function logged_in_msg($username)
 	if($_POST['submit'] != ""){
 		$url = $_POST['url'];
 		$sub = $_POST['sub'];
-		$advast = $_POST["advast"];
 		$poster = $_POST['poster'];
 		$title = $_POST["title"];
 		$iframeid = my_simple_crypt($url);
