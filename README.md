@@ -1,5 +1,5 @@
-# GDrive-X Premium (V2)
-A tool for playing Google Photos Video with JW Player. Check out: <a href='https://gdrivex-premium.blogspot.com/'>GDrive-X Premium (V2)</a>
+# GDrive-X Premium
+A tool for playing Google Photos Video with JW Player.
 
 ## Description
 
@@ -17,6 +17,7 @@ A tool for playing Google Photos Video using JW Player. You can play any video h
    <li>Encryption.</li>
    <li>1080p, 720p, 480p, 360p Quality Streaming. ( <a href='#gdrive-x-premium-tool'>1080p Streaming</a> is available only in <a href='#gdrive-x-premium-tool'>GDrive-X Premium</a> )</li>
    <li>Download Option [Unlimited] [working!] ( <a href='#gdrive-x-premium-tool'>GDrive-X Premium</a> )</li>
+   <li>Advertising ( Vast/IMA video ads )( <a href='#gdrive-x-premium-tool'>GDrive-X Premium</a> )</li>
    <li>Use Google Photos Bandwidth.</li>
    <li>Unlimited Storage.</li>
    <li>Unlimited Bandwidth.</li>
@@ -62,7 +63,7 @@ A tool for playing Google Photos Video using JW Player. You can play any video h
 <ul>
    <li>Download the zip file.</li>
    <li>Upload it in your server root and extract it.</li>
-   <li>Open index.php and find following code:</li>
+   <li>Open config.php and find following code:</li>
 </ul>
 
    ```
@@ -72,18 +73,19 @@ A tool for playing Google Photos Video using JW Player. You can play any video h
    
 <ul>
    <li>Change "admin" with your username and "admin123" with your password.</li>
+   <li>A detailed documentaion has been given in this repo.</li>
 </ul>
 
 ## Usage
 
 <ul>
    <li>Upload video to Google Drive and transfer it to Google Photos or directly upload video to Google Photos</li>
-   <li>Create "Shareing Link" and make it public and copy it and paste it in browser</li>
-   <li>After pasting link in browser and copy full link like below:</li>
+   <li>Create "Share Link" and copy it.</li>
+   <li>The link should look like below:</li>
 </ul>
    
    ```
-   https://photos.google.com/share/xxxxxxxxxxx/photo/xxxxxxxxxx?key=xxxxxxxxxxxxx
+   https://photos.app.goo.gl/xxxxxxxxxxxxxxxxx
    ```
    
 <ul>
