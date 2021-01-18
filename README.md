@@ -13,6 +13,7 @@ We have introduced a free version of GDrive-X Tool. It lets you stream Google Ph
    <li>No Advertisement ( To keep this service free of cost, we depend on advertisement. )</li>
    <li>No Download option</li>
    <li>Free API Key: dac0d6d26ece8033</li>
+   <li>Download <a href='https://github.com/karankankaria/GDrive-X/archive/master.zip'>GDrive-X Free Tool</a></li>
 </ul>
 
 ## Features
