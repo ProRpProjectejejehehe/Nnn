@@ -93,24 +93,6 @@ function display_login_form()
         <![endif]-->        
     </head>
  <body>
- <!-- Large modal -->
-  <div class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
-     <div class="modal-dialog modal-lg">
-        <div class="modal-content">
-           <div class='form-group'>
-               <textarea style="background:#000;color:#fff" class='form-control' id='textArea' readonly='readonly' rows='7'>
-                  GDrive-X Free Tool:
-		  Google Photos Jwplayer PHP Script Demo:     
-		       
-                  username: admin 
-                  password: admin123
-		       
-                  Happy Exploring!
-              </textarea>
-           </div>
-        </div>
-     </div>
-  </div>
 	 
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.min.js"></script>
 <div class="d-flex align-items-center justify-content-center bg-gray-200 ht-100v">
@@ -125,7 +107,6 @@ function display_login_form()
 			 '<input type="password" name="password" value="admin123" id="password" class="form-control" placeholder="Enter your password" required>' .
 			 '</div>'.
 			 '<button type="submit" name="submit" class="btn btn-info btn-block">Sign In</button><br>' .
-	                 '<button type="button" class="btn btn-sm btn-success" data-toggle="modal" data-target=".bd-example-modal-lg">Login Detail</button>'.
 		 '</form>';
 }
 function logged_in_msg($username)
@@ -135,7 +116,7 @@ function logged_in_msg($username)
 	error_reporting(0);
         include "crypt.php";
 	include "config.php";
-  
+	
 	if($_POST['submit'] != ""){
 		$url = $_POST['url'];
 		$sub = $_POST['sub'];
